@@ -1,10 +1,10 @@
 <component name="libraryTable">
   <library name="media-player">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/escape-app/import/media-player" />
+      <root url="file://$PROJECT_DIR$/escape-app/src/assets/import/media-player" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
-    <jarDirectory url="file://$PROJECT_DIR$/escape-app/import/media-player" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/escape-app/src/assets/import/media-player" recursive="false" />
   </library>
 </component>
