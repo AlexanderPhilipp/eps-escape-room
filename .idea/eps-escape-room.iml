@@ -10,15 +10,5 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="media-player" level="project" />
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES />
-        <JAVADOC />
-        <NATIVE>
-          <root url="file://$MODULE_DIR$/escape-app/lib" />
-        </NATIVE>
-        <SOURCES />
-      </library>
-    </orderEntry>
   </component>
 </module>
