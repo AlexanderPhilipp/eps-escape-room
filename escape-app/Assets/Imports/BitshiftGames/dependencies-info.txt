@@ -1,0 +1,6 @@
+Settings Management
+    -Text Mesh Pro
+InAppPurchasing
+    -Unity Purchasing
+Advertising
+    -Unity Advertisements
