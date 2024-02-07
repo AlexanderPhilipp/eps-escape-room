@@ -2602,7 +2602,7 @@ MonoBehaviour:
             m_BoolArgument: 0
           m_CallState: 2
     imageData: {fileID: 0}
-    videoData: {fileID: 32900000, guid: 8a7dc21f4c0364e1b833e1b04cef083d, type: 3}
+    videoData: {fileID: 32900000, guid: b91b60361f686490f9c09b6bd3586ddc, type: 3}
     textData: 
   - sequenceName: Overview
     sequenceType: 1
@@ -2632,7 +2632,7 @@ MonoBehaviour:
             m_BoolArgument: 0
           m_CallState: 2
     imageData: {fileID: 0}
-    videoData: {fileID: 32900000, guid: b5e645efb2f8d4f9a8e91bb3f0af5f1a, type: 3}
+    videoData: {fileID: 32900000, guid: 6c00e283004c0464d8556ce77cbcaee9, type: 3}
     textData: 
   - sequenceName: Rechts
     sequenceType: 0
@@ -2653,7 +2653,7 @@ MonoBehaviour:
             m_BoolArgument: 0
           m_CallState: 2
     imageData: {fileID: 0}
-    videoData: {fileID: 32900000, guid: 544c4f4ec6753443693b037410353197, type: 3}
+    videoData: {fileID: 32900000, guid: f2e06f177c9dc472dac5bb1d94a4a186, type: 3}
     textData: 
   - sequenceName: RechtsOverview
     sequenceType: 1
