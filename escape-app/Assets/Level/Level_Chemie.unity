@@ -724,7 +724,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 8c364c801a78a4e73906ca0a8b8e5842, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8372a29adab7d304d97e40812bd8afb1, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1360,8 +1360,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -277, y: 157}
-  m_SizeDelta: {x: 160, y: 88.5098}
+  m_AnchoredPosition: {x: -17.5784, y: 38.63}
+  m_SizeDelta: {x: 172.6565, y: 77.2596}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &966997114
 MonoBehaviour:
@@ -1384,7 +1384,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 0.19607843}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
@@ -1515,7 +1515,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Nach Links gehen
+  m_text: Zum Schrank
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2285,7 +2285,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Nach rechts gehe
+  m_text: Zum Schreibtisch
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2602,7 +2602,7 @@ MonoBehaviour:
             m_BoolArgument: 0
           m_CallState: 2
     imageData: {fileID: 0}
-    videoData: {fileID: 32900000, guid: b91b60361f686490f9c09b6bd3586ddc, type: 3}
+    videoData: {fileID: 32900000, guid: 56fc791b47f58614cba98edf3010be76, type: 3}
     textData: 
   - sequenceName: Overview
     sequenceType: 1
@@ -2610,10 +2610,10 @@ MonoBehaviour:
     onVideoSequenceFinished:
       m_PersistentCalls:
         m_Calls: []
-    imageData: {fileID: 21300000, guid: 17dfac929406a47769109da6e332d872, type: 3}
+    imageData: {fileID: 21300000, guid: 8372a29adab7d304d97e40812bd8afb1, type: 3}
     videoData: {fileID: 0}
     textData: 
-  - sequenceName: Links
+  - sequenceName: Schrank
     sequenceType: 0
     sequenceButtonPage: {fileID: 1546634278}
     onVideoSequenceFinished:
@@ -2632,9 +2632,9 @@ MonoBehaviour:
             m_BoolArgument: 0
           m_CallState: 2
     imageData: {fileID: 0}
-    videoData: {fileID: 32900000, guid: 6c00e283004c0464d8556ce77cbcaee9, type: 3}
+    videoData: {fileID: 32900000, guid: 6cf2c7537e4a6f640af18a2b37078fa4, type: 3}
     textData: 
-  - sequenceName: Rechts
+  - sequenceName: Tisch
     sequenceType: 0
     sequenceButtonPage: {fileID: 0}
     onVideoSequenceFinished:
@@ -2653,7 +2653,7 @@ MonoBehaviour:
             m_BoolArgument: 0
           m_CallState: 2
     imageData: {fileID: 0}
-    videoData: {fileID: 32900000, guid: f2e06f177c9dc472dac5bb1d94a4a186, type: 3}
+    videoData: {fileID: 32900000, guid: 1d23179d9e4077f49aa368b5db136ea2, type: 3}
     textData: 
   - sequenceName: RechtsOverview
     sequenceType: 1
@@ -2773,8 +2773,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 539, y: 157}
-  m_SizeDelta: {x: 297.2729, y: 153.7708}
+  m_AnchoredPosition: {x: 320.4843, y: -1.5624}
+  m_SizeDelta: {x: 184.7713, y: 84.8636}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2107536676
 MonoBehaviour:
@@ -2797,7 +2797,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 0.19607843}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
